@@ -1,0 +1,17 @@
+{
+  "name": "Runstant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/electron .",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-packager": "^5.1.1",
+    "electron-prebuilt": "^0.35.2"
+  }
+}
